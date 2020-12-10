@@ -1,0 +1,46 @@
+html, body {
+    height: 100% !important;
+    background: white;
+    color: black;
+    font-family: Calibri;
+    font-style: normal;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.height {
+    height: 100%;
+}
+
+#sidebar {
+    padding-top: 150px;
+}
+
+
+.sidenav {
+    padding: .5rem;
+}
+
+a {
+    color: #904d37;
+    padding: 0;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #4f2e2c;
+}
+
+img {
+    max-width: 400px;
+}
+
+div {
+    justify-content: center;
+}
+
+h1 {
+    color: black;
+}
