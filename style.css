@@ -1,23 +1,16 @@
 html, body {
-    height: 100% !important;
-    background: white;
-    color: black;
+    height: 100%;
     font-family: Calibri;
     font-style: normal;
 }
 
-.container-fluid {
-    height: 100%;
+.container, .row {
+    height: 100% !important;
 }
 
 .height {
     height: 100%;
 }
-
-#sidebar {
-    padding-top: 150px;
-}
-
 
 .sidenav {
     padding: .5rem;
@@ -35,12 +28,4 @@ a:hover {
 
 img {
     max-width: 400px;
-}
-
-div {
-    justify-content: center;
-}
-
-h1 {
-    color: black;
 }
