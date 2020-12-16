@@ -1,15 +1,6 @@
-html, body {
+html, body, .container, .row {
     height: 100%;
     font-family: Calibri;
-    font-style: normal;
-}
-
-.container, .row {
-    height: 100% !important;
-}
-
-.height {
-    height: 100%;
 }
 
 .sidenav {
@@ -24,8 +15,4 @@ a {
 a:hover {
     text-decoration: none;
     color: #4f2e2c;
-}
-
-img {
-    max-width: 400px;
 }
